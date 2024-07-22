@@ -4,7 +4,7 @@ from tkinter.ttk import *
 from time import strftime
 
 root = Tk()
-root.title("The clock says Governor Obaseki is doing well in Edo State")
+root.title("The clock says you are doing well in your life.  Keep pressing on.")
 
 def time():
     string = strftime('%H:%M:%S %p')
